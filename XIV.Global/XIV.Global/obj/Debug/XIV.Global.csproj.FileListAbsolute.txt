@@ -1,0 +1,7 @@
+C:\Users\grans\Source\Repos\XIVDB.Global\XIV.Global\XIV.Global\bin\Debug\XIV.Global.dll
+C:\Users\grans\Source\Repos\XIVDB.Global\XIV.Global\XIV.Global\bin\Debug\XIV.Global.pdb
+C:\Users\grans\Source\Repos\XIVDB.Global\XIV.Global\XIV.Global\bin\Debug\log4net.dll
+C:\Users\grans\Source\Repos\XIVDB.Global\XIV.Global\XIV.Global\bin\Debug\log4net.xml
+C:\Users\grans\Source\Repos\XIVDB.Global\XIV.Global\XIV.Global\obj\Debug\XIV.Global.csprojResolveAssemblyReference.cache
+C:\Users\grans\Source\Repos\XIVDB.Global\XIV.Global\XIV.Global\obj\Debug\XIV.Global.dll
+C:\Users\grans\Source\Repos\XIVDB.Global\XIV.Global\XIV.Global\obj\Debug\XIV.Global.pdb
